@@ -1,6 +1,6 @@
 {
-   "server_name": "polymer.live",
-   "user_name":"jeffcheema",
+   "server_name": "example.com",
+   "user_name":"user",
    "root":"/var/www/html/"
 
 
